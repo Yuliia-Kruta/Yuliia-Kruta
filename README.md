@@ -9,11 +9,11 @@
 
 💻 I’m currently working on **my pet projects** and learning **MERN stack!**
 
-👨‍💻 My portfolio website: [portfoliolink](portfoliolink)
+👨‍💻 My portfolio website: link is coming soon!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedinusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinusername" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcodeusernmae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcodeusernmae" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedinusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinusername" height="30" width="40" /></a>(link is coming soon!)
+<a href="https://www.leetcode.com/leetcodeusernmae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcodeusernmae" height="30" width="40" /></a>(link is coming soon!)
 </p>
 
 <br />

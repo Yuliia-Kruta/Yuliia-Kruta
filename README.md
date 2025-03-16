@@ -7,7 +7,7 @@
 
 <br />
 
-💻 I’m currently working on **my pet projects** and learning **MERN stack!**
+💻 I’m currently doing uni and working on **my pet projects**!**
 
 👨‍💻 My portfolio website: link is coming soon!
 <h3 align="left">Connect with me:</h3>
